@@ -23,7 +23,10 @@ The **ATS Resume Tracking System** is a Streamlit-based web application designed
    ```bash
    pip install -r requirements.txt
    ```
-
+4. Install the dependencies:
+   ```bash
+   add GOOGLE Gemini API Key in .env file
+   ```
 ## ▶️ Usage
 Run the application with:
 ```bash
