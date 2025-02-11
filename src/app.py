@@ -1,7 +1,8 @@
 import streamlit as st
 import os
 from config import get_gemini_response
-from input import input_pdf_content, input_prompt1, input_prompt2
+from input import input_pdf_content 
+from prompts import input_prompt1, input_prompt2
 
 st.set_page_config(page_title="ATS System")
 st.header("📄 ATS Resume Tracking System")
